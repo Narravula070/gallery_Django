@@ -16,6 +16,7 @@ Source code for a SitePoint article demonstrating how to build a photo sharing a
 ## Requirements
 
 * [Python](https://www.python.org/)
+* [Django](https://www.django.org/)
 
 ## SetUp
 
